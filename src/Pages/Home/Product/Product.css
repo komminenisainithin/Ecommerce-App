@@ -1,0 +1,19 @@
+.halfDiv {
+    width: 50%;
+
+}
+
+.productPage {
+    display: flex;
+    min-height: 100vh;
+}
+
+.productImageDiv {
+
+    background-color: black;
+}
+
+.productInfoDiv {
+    /* background-color: red; */
+
+}
